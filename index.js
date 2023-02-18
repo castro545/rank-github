@@ -39,4 +39,4 @@ function getTopRepos(N, language) {
 }
 
 // Ejecutamos la función getTopRepos con los parámetros deseados
-getTopRepos(9, 'JavaScript');
+getTopRepos(8 ,'JavaScript'); 
