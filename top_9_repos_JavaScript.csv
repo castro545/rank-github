@@ -1,10 +1,10 @@
 Rank,Language,Name,Stars,Forks,URL,Owner,Open Issues,Last Update,Description
 1,JavaScript,freeCodeCamp,296554,20629,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp,6572,2018-12-18T12:16:12Z,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-2,JavaScript,freeCodeCamp,296554,20629,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp,6572,2018-12-18T12:16:12Z,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-3,JavaScript,freeCodeCamp,296554,20629,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp,6572,2018-12-18T12:16:12Z,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-4,JavaScript,vue,122454,17507,https://github.com/vuejs/vue,vuejs,233,2018-12-18T07:38:59Z,"🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
-5,JavaScript,vue,122454,17507,https://github.com/vuejs/vue,vuejs,233,2018-12-18T07:38:59Z,"🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
-6,JavaScript,vue,122454,17507,https://github.com/vuejs/vue,vuejs,233,2018-12-18T07:38:59Z,"🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
-7,JavaScript,react,117818,21368,https://github.com/facebook/react,facebook,516,2018-12-18T01:58:28Z,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
-8,JavaScript,react,117818,21368,https://github.com/facebook/react,facebook,516,2018-12-18T01:58:28Z,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
-9,JavaScript,react,117818,21368,https://github.com/facebook/react,facebook,516,2018-12-18T01:58:28Z,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+2,JavaScript,vue,122454,17507,https://github.com/vuejs/vue,vuejs,233,2018-12-18T07:38:59Z,"🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+3,JavaScript,react,117818,21368,https://github.com/facebook/react,facebook,516,2018-12-18T01:58:28Z,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+4,JavaScript,d3,81075,20161,https://github.com/d3/d3,d3,8,2018-12-05T10:57:47Z,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+5,JavaScript,javascript,79645,15209,https://github.com/airbnb/javascript,airbnb,134,2018-12-06T23:44:26Z,JavaScript Style Guide
+6,JavaScript,react-native,72006,16101,https://github.com/facebook/react-native,facebook,881,2018-12-18T13:48:45Z,A framework for building native apps with React.
+7,JavaScript,create-react-app,60781,13242,https://github.com/facebook/create-react-app,facebook,330,2018-12-18T13:54:45Z,Set up a modern web app by running one command.
+8,JavaScript,angular.js,59303,29002,https://github.com/angular/angular.js,angular,487,2018-12-17T16:59:02Z,AngularJS - HTML enhanced for web apps!
+9,JavaScript,Font-Awesome,58208,9904,https://github.com/FortAwesome/Font-Awesome,FortAwesome,4696,2018-12-18T01:07:34Z,"The iconic SVG, font, and CSS toolkit"
